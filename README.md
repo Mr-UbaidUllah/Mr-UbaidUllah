@@ -1,116 +1,102 @@
-<h1 align="center">Hi 👋, I'm Ubaid Ullah</h1>
-<h3 align="center">Flutter & Full-Stack Developer | Building cross-platform apps that scale</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ubaidullah-84b442285"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://mr-ubaidullah.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="mailto:ubaidullah.dev09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
 <div align="center">
-
-# 👋 Hi, I'm Ubaid Ullah
-
-### Flutter Developer · Backend Developer · UI/UX Designer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+beautiful+Flutter+applications;Learning+Backend+Engineering;Turning+ideas+into+real+products;Always+learning.+Always+building." />
-
-<br/>
-
-<p>
-  <a href="https://mr-ubaidullah.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge" />
+  <h1>Hi there 👋, I'm Ubaid Ullah</h1>
+  
+  <a href="https://github.com/mr-ubaidullah">
+    <img src="https://komarev.com/ghpvc/?username=mr-ubaidullah&color=7b61ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
-  <a href="https://github.com/Mr-UbaidUllah">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+  
+  <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Mr-UbaidUllah&label=Profile%20Views&color=6C63FF&style=flat" />
-
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Flutter+%26+Full-Stack+Developer;Building+Cross-Platform+Experiences;Crafting+Scalable+Backend+Systems;Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-```text
-I'm a software developer who enjoys turning ideas into
-clean, functional and scalable digital products.
+> **I am a software developer who enjoys turning ideas into clean, functional, and scalable digital products.** My primary focus is Flutter development, and I am currently expanding into backend engineering. I care deeply about clean architecture, maintainable code, exceptional UI/UX, and performance.
 
-My primary focus is Flutter development, while I'm
-currently expanding into backend engineering.
-
-I care about:
-→ Clean architecture
-→ Maintainable code
-→ Good UI/UX
-→ API design
-→ Performance
-→ Continuous learning
----
-
-### 🚀 About Me
-
-- 🎯 Flutter & full-stack developer with **3+ years** building cross-platform mobile and backend systems
-- 🏥 Experience spans **healthcare, e-commerce, fitness, mentoring, and automotive/factory management** domains
-- 🛠️ Delivered **10+ production-quality Flutter apps** end-to-end — architecture through deployment
-- 🔥 Comfortable across the stack: Flutter/Dart on the front end, Node.js/Firebase/MongoDB/PostgreSQL on the back
-- 📍 Based in Peshawar, Pakistan — open to remote collaboration
-- 🎓 Currently pursuing a BS in Computer Science at UET Peshawar (Expected 2026)
+*   🎯 **Experience:** 3+ years building cross-platform mobile and backend systems across healthcare, e-commerce, fitness, mentoring, and industrial domains.
+*   🛠️ **Track Record:** Delivered 10+ production-quality Flutter applications end-to-end, from architecture through deployment.
+*   💻 **Tech Focus:** Comfortable across the stack with Flutter/Dart on the frontend and Node.js/Firebase/PostgreSQL on the backend.
+*   📍 **Location:** Based in Peshawar, Pakistan — open to remote collaboration.
+*   🎓 **Education:** Pursuing a BS in Computer Science at UET Peshawar (Expected 2026).
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack & Tools
 
-**Languages**
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
+  
+  **Languages** <br>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-**Frameworks & Tools**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+  <br><br>
+  **Frameworks & Infrastructure** <br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
-**State Management:** Provider · Riverpod · Bloc · GetX
-**Architecture:** Clean Architecture · MVC · Repository Pattern
+</div>
+
+> **Architecture & State Management:** Clean Architecture · MVC · Repository Pattern · Provider · Riverpod · Bloc · GetX
 
 ---
 
-### 💼 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Stack | Highlight |
-|---|---|---|
-| 🩸 **LifeLink** — Blood Donation Platform | Flutter, Firebase | Real-time blood request system connecting donors to urgent requests via push notifications |
-| 🏭 **Marble Factory Management System** | Flutter, Node.js, PostgreSQL | Admin & order-processing system with real-time inventory and status tracking |
-| 🎓 **Synapse** — Mentoring Platform | Flutter, REST APIs | High-performance session scheduling app with clean architecture |
-| 🩺 **Dermatology Healthcare App** | Flutter, Firebase | Appointment-booking platform with doctor listings & dynamic filtering |
-| 🛒 **E-Commerce Application** | Flutter, Node.js, MongoDB | Secure auth and shopping cart supporting the full purchase flow |
-| 💪 **Fitness Application** | Flutter, Firebase | Workout-tracking app with profile management & progress history |
+| Project | Tech Stack | Highlight |
+| :--- | :--- | :--- |
+| 🩸 **LifeLink** | `Flutter` `Firebase` | Real-time blood donation platform connecting donors to urgent requests via push notifications. |
+| 🏭 **Marble Factory Manager** | `Flutter` `Node.js` `SQL` | Admin and order-processing system featuring real-time inventory and workflow status tracking. |
+| 🎓 **Synapse** | `Flutter` `REST APIs` | High-performance mentoring and session scheduling application built with clean architecture. |
+| 🩺 **Dermatology App** | `Flutter` `Firebase` | Healthcare appointment-booking platform with doctor listings and dynamic filtering. |
+| 🛒 **E-Commerce App** | `Flutter` `Node.js` | Full-stack shopping experience with secure authentication and seamless checkout flows. |
+| 💪 **Fitness App** | `Flutter` `Firebase` | Workout-tracking application with comprehensive profile management and progress history. |
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mr-ubaidullah&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ubaidullah&layout=compact&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-ubaidullah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ubaidullah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-ubaidullah/mr-ubaidullah/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mr-ubaidullah/mr-ubaidullah/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mr-ubaidullah/mr-ubaidullah/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
 ### 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ubaidullah-84b442285">LinkedIn</a> ·
-  <a href="https://mr-ubaidullah.github.io/portfolio/">Portfolio</a> ·
-  <a href="mailto:ubaidullah.dev09@gmail.com">Email</a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ubaidullah-84b442285">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mr-ubaidullah.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ubaidullah.dev09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
