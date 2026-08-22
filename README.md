@@ -1,44 +1,33 @@
-<div align="center">
+name: Generate Contribution Snake
 
-# 👋 Hi, I'm Ubaid Ullah
+on:
+  schedule:
+    # Runs every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
 
-### Flutter Developer · Backend Developer · UI/UX Designer
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+beautiful+Flutter+applications;Learning+Backend+Engineering;Turning+ideas+into+real+products;Always+learning.+Always+building." />
+    steps:
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-<br/>
-
-<p>
-  <a href="https://mr-ubaidullah.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Mr-UbaidUllah">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Mr-UbaidUllah&label=Profile%20Views&color=6C63FF&style=flat" />
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```text
-I'm a software developer who enjoys turning ideas into
-clean, functional and scalable digital products.
-
-My primary focus is Flutter development, while I'm
-currently expanding into backend engineering.
-
-I care about:
-→ Clean architecture
-→ Maintainable code
-→ Good UI/UX
-→ API design
-→ Performance
-→ Continuous learning
+      - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
